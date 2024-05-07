@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;리스트.java&apos; to &apos;자바내용정리/src/com.kh.collectionEx&apos;&#x0D;&#x0A;- Original project: &apos;자바내용정리&apos;&#x0D;&#x0A;- Destination element: &apos;자바내용정리/src/com.kh.collectionEx&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.ArrayEx.리스트.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.kh.collectionEx" element1="/src&lt;com.kh.ArrayEx{리스트.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1714608481781" units="1" version="1.0"/>
+</session>
